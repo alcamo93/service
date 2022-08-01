@@ -1,0 +1,62 @@
+{
+    "id": 4,
+    "textStatus": "Alquiler",
+    "acercaDe": [
+        "Este proyecto busca consolidar a WeCode en el \u00e1rea de Coliving, la empresa tiene como objetivo ser el 1er Coworking del Pa\u00eds que evolucione su modelo de negocio integral, ofreciendo a sus clientes no solo espacios de trabajo sino espacios para vivir.",
+        "El proyecto incluye la compra y remodelaci\u00f3n de una Suite de 55mts2 en el Hotel del Centro Comercial Ciudad Tamanaco.",
+        "El objetivo final del inmueble ser\u00e1 el alquiler de espacios bajo la modalidad de Coworking\/Coliving, administrado por Wecode. Las ganancias generadas, luego de deducir gastos de condominio, limpieza, mantenimiento y administraci\u00f3n, ser\u00e1n repartidos equitativamente entre los propietarios de Tokens. En la p\u00e1gina se ir\u00e1n reportando los avances de la firma, ejecuci\u00f3n de la obra, decoraci\u00f3n y puesta en marcha. Los inversionistas tendr\u00e1n acceso al detalle de miembros inscritos, renta de espacios as\u00ed como cualquier otro ingreso o gasto del proyecto.",
+        "WeCode puede recomprar los tokens a valor de mercado y estar\u00e1 permitido el mercado secundario de intercambio de tokens. En un m\u00e1ximo de 2 a\u00f1os WeCode espera recomprar el 100% de los tokens a valor de mercado. De no alcanzar el monto objetivo en la fase inicial, Wecode se reserva el derecho de recompar los tokens a los inversionistas y se dar\u00eda por cerrado el proyecto.",
+        "Se estiman 2 meses para captar el 100% del capital.",
+        "El valor del token ir\u00e1 subiendo a medida que se vayan vendiendo m\u00e1s tokens, preventa, ejecuci\u00f3n e inicio de operaciones. Tu token ir\u00e1 ganando valor en cada etapa, una vez inicie las operaciones y el negocio genere ganancias \u00e9stas ser\u00e1n repartidas entre los socios."
+    ],
+    "parking": true,
+    "currencyType": "$",
+    "precioProyectoFloat": 100000,
+    "medidaTiempoProyecto": "meses",
+    "tiempoProyecto": 6,
+    "dormitorios": 1,
+    "banios": 1,
+    "anioInauguracion": 2005,
+    "lat": "10.484825",
+    "log": "-66.854589",
+    "urlMaps": "https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d15692.803505993848!2d-66.8545895!3d10.4848251!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3c21e12b566d9b47!2sHotel%20CCT!5e0!3m2!1ses-419!2sve!4v1648601944725!5m2!1ses-419!2sve",
+    "area": 50,
+    "areaType": "mts2",
+    "entityType": "Suite",
+    "titleEntity": "Compra y Remodelaci\u00f3n Suite en CCCT",
+    "addressEntity": "Chuao, CCCT",
+    "specs": [
+        {
+            "id": 1,
+            "specifName": "Ba\u00f1os",
+            "speciIcon": "flaticon-bed",
+            "specifValue": "02"
+        },
+        {
+            "id": 2,
+            "specifName": "Cubiculos",
+            "speciIcon": "flaticon-shower",
+            "specifValue": "10"
+        },
+        {
+            "id": 3,
+            "specifName": "Oficinas",
+            "speciIcon": "flaticon-two-overlapping-square",
+            "specifValue": "03"
+        }
+    ],
+    "feats": [
+        "TV Cable",
+        "Aire Acondicionado",
+        "Barbacoa",
+        "Gimnasio",
+        "Piscina",
+        "Tintorer\u00eda",
+        "Microondas",
+        "Grama",
+        "Sauna",
+        "Camaras de Seguridad",
+        "Caf\u00e9",
+        "Dispersi\u00f3n"
+    ]
+}
